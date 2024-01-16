@@ -1,0 +1,11 @@
+# Robot control mode
+control_type: auto
+
+# Mapping configs
+preload_map: False
+preload_map_path: "images/trav_map/Beechwood_0_int_trav_mir_2000.png"
+topo_judge_mode: "none"  # model, tradition, none
+map_mode: "all"  # simple, all
+imsize: 224
+
+#
